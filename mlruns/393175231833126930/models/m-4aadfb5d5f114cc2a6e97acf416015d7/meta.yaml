@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/lenovo/Desktop/Sem 7/MLOPS/A4/mlops-mlflow-assignment4/mlruns/393175231833126930/models/m-4aadfb5d5f114cc2a6e97acf416015d7/artifacts
+creation_timestamp: 1764421327741
+experiment_id: '393175231833126930'
+last_updated_timestamp: 1764421333129
+model_id: m-4aadfb5d5f114cc2a6e97acf416015d7
+model_type: null
+name: linear_regression_model
+source_run_id: a5d3be7b6d3e4365b8e84bbb4aab1559
+status: 2
+status_message: null

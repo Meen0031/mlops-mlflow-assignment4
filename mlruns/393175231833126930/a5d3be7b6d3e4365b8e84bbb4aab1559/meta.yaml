@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/lenovo/Desktop/Sem 7/MLOPS/A4/mlops-mlflow-assignment4/mlruns/393175231833126930/a5d3be7b6d3e4365b8e84bbb4aab1559/artifacts
+end_time: 1764421333160
+entry_point_name: ''
+experiment_id: '393175231833126930'
+lifecycle_stage: active
+run_id: a5d3be7b6d3e4365b8e84bbb4aab1559
+run_name: Full-Pipeline-Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764421327546
+status: 3
+tags: []
+user_id: lenovo
